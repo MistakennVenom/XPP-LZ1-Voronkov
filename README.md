@@ -1,4 +1,4 @@
-# Lab Work 6: Java Reflection API
+# Lab Work 1: Java Reflection API
 Contains solutions for Tasks 1-5 regarding Java Reflection API.
 
 ## How to run:
